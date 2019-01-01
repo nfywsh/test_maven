@@ -67,7 +67,7 @@
             <version>2.2</version>
             <configuration>
 		    <webXml>src\main\web\WEB-INF\web.xml</webXml>
-		    <warSourceDirectory>web</warSourceDirectory>
+		    <warSourceDirectory>src\main\web</warSourceDirectory>
             </configuration>
         </plugin>
             <plugin>
